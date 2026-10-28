@@ -88,7 +88,7 @@ class QuizzesTab extends StatelessWidget {
                             ),
                             const SizedBox(width: 6),
                             Text(
-                              'LEON FAST-PASS • ТУР РПЛ',
+                              'ЛЕО FAST-PASS • ТУР РПЛ',
                               style: GoogleFonts.outfit(
                                 fontSize: 11,
                                 fontWeight: FontWeight.w900,

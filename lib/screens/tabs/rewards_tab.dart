@@ -111,7 +111,7 @@ class _RewardsTabState extends State<RewardsTab> {
                             borderRadius: BorderRadius.circular(6),
                           ),
                           child: Text(
-                            'LEON REWARDS',
+                            'ЛЕО REWARDS',
                             style: GoogleFonts.outfit(fontSize: 10, fontWeight: FontWeight.w900, color: Colors.white, letterSpacing: 1.0),
                           ),
                         ),
